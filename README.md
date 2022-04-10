@@ -6,3 +6,5 @@ Repository of data science portfolio.
 * **Machine Learning Diabetes:** a naive bayes model that classifies diabetes of a small and unbalanced database. (https://github.com/Andre-Seiji/Data-Science-Portfolio/blob/main/Machine%20Learning%20Diabetes/Naive_bayes_Diabetes.ipynb)
 
 * **Dogs and Cats Image Classification with Neural Network:** using Multi-layer Perceptron classifier the model was trained to distinguish dogs from cats.  (https://github.com/Andre-Seiji/Data-Science-Portfolio/blob/main/Dogs%20and%20Cats%20image%20classification/MLPClassifier_Dogs_and_Cats.ipynb)
+
+* **Flex Fuel Vehicle Analysis:** analyzing the myth that Ethanol mileage is equal to 70% of Gasoline mileage in Flex Fuel Vehicles of brazilian domestic market.  (https://github.com/Andre-Seiji/Data-Science-Portfolio/blob/main/Flex_Fuel_Vehicles_Analysis/FlexFuel_myth.ipynb)
